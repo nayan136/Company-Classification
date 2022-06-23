@@ -21,4 +21,4 @@ Meta description: The meta description in the header of the page html for SEO
 
 We used Kmeans clusternig on the sparse matrix that we got after TF-IDF vectorization to create word clouds that can tell which company it belongs to as an example we have our Healthcare sector as:
 
-<img src = "[https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png](https://user-images.githubusercontent.com/75989898/118387620-ffc00780-b63c-11eb-884f-534657116ced.PNG)" width ="200"/>
+<img src = "https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png](https://user-images.githubusercontent.com/75989898/118387620-ffc00780-b63c-11eb-884f-534657116ced.PNG" width ="200"/>
