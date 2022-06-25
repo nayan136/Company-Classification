@@ -1,7 +1,7 @@
 # Company Classification
 Problem Statement : We are given with web scraped data of various businesses and companies. We need to somehow categorize these businesses and companies across a standard taxonomy (consists of term names and labels that are specific to an organization's information and unique to how that business operates). So that, business can leverage this information and target potential companies.
 <br><br>
-<a href="https://drive.google.com/drive/folders/1yGu1w7UjV4Ml7ew_R83pBikgMNgIFKTh">Access the DataSet Here</a>
+<a target="_blank" href="https://drive.google.com/drive/folders/1yGu1w7UjV4Ml7ew_R83pBikgMNgIFKTh">Access the DataSet Here</a>
 # Overview of the DATASET
 Website: The website of the company/business
 
