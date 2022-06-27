@@ -28,4 +28,4 @@ We used Kmeans clusternig on the sparse matrix that we got after TF-IDF vectoriz
 # Files Description
 <strong>Company_Classification.ipynb:</strong> Python notebook with all the Data Preprocessing and Clustering code. It can be used in Jupyter Notebook or in Google Colab.
 <br>
-<strong>presentation.pdf:</strong> Presentation of the project.
+<strong>Presentation.pdf:</strong> Presentation of the project.
